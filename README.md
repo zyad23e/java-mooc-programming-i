@@ -1,32 +1,45 @@
-\# Java MOOC Programming I
+# MOOC Java Programming I – University of Helsinki
 
+![Last Commit](https://img.shields.io/github/last-commit/zyad23e/java-mooc-programming-i?style=flat-square)
 
+This repository contains my solutions to the **Java Programming I** course from the University of Helsinki’s MOOC.  
+I’m completing this in **Pro Mode** (no hints, all exercises done independently) to strengthen my Java fundamentals and OOP skills.
 
-Exercises completed from the University of Helsinki's \[Java Programming I MOOC](https://mooc.fi/en/).
+---
 
+## Course Info
+- **Platform:** [MOOC.fi](https://www.mooc.fi/en/)
+- **Language:** Java
+- **IDE:** TMCBeans
+- **Approach:** Pro Mode – solving without hints and pushing progress regularly to GitHub.
 
+---
 
-\## ✅ Progress
+## Progress
 
+- [x] **Part 1** – Completed  
+- [x] **Part 2** – Completed  
+- [x] **Part 3** – Completed ✅  
+- [ ] **Part 4** – In Progress  
+- [ ] **Part 5** – Pending  
+- [ ] **Part 6** – Pending  
+- [ ] **Part 7** – Pending  
 
+---
 
-\- ✅ Part 1: Basics, variables, conditionals, loops
+## Goals
+- Build strong Java/OOP fundamentals  
+- Keep a public record of daily progress  
+- Prepare for backend development roles
 
-\- ✅ Part 2: Methods, classes, object interaction
+---
 
-\- ⏳ Next: Part 3 (Lists, file I/O)
+## How to Run
+1. Clone this repository  
+2. Open in **TMCBeans** IDE  
+3. Run exercises from the IDE
 
+---
 
-
-\## 🛠 Environment
-
-
-
-\- Java 17
-
-\- TMCBeans (custom NetBeans IDE from mooc.fi)
-
-\- All exercises tested using the TMC plugin
-
-
-
+## License
+This project is for educational purposes only.
