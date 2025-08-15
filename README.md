@@ -20,8 +20,8 @@ I’m completing this in **Pro Mode** (no hints, all exercises done independentl
 - [x] **Part 1** – Completed ✅  
 - [x] **Part 2** – Completed ✅
 - [x] **Part 3** – Completed ✅  
-- [ ] **Part 4** – In Progress  
-- [ ] **Part 5** – Pending  
+- [ ] **Part 4** – Completed ✅
+- [ ] **Part 5** – In Progress  
 - [ ] **Part 6** – Pending  
 - [ ] **Part 7** – Pending  
 
