@@ -1,7 +1,7 @@
 
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.Scanner; //part 4 done
 
 public class SportStatistics {
 
