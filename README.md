@@ -22,8 +22,8 @@ I’m completing this in **Pro Mode** (no hints, all exercises done independentl
 - [x] **Part 3** – Completed ✅  
 - [x] **Part 4** – Completed ✅
 - [x] **Part 5** – Completed ✅
-- [ ] **Part 6** – In Progress  
-- [ ] **Part 7** – Pending  
+- [x] **Part 6** – Completed ✅
+- [ ] **Part 7** – In Progress
 
 ---
 
