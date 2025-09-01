@@ -17,13 +17,13 @@ I’m completing this in **Pro Mode** (no hints, all exercises done independentl
 
 ## Progress
 
-- [x] **Part 1** – Completed ✅  
-- [x] **Part 2** – Completed ✅
-- [x] **Part 3** – Completed ✅  
-- [x] **Part 4** – Completed ✅
-- [x] **Part 5** – Completed ✅
-- [x] **Part 6** – Completed ✅
-- [x] **Part 7** – Completed ✅
+- [x] *Part 1* – Completed ✅  
+- [x] *Part 2* – Completed ✅
+- [x] *Part 3* – Completed ✅  
+- [x] *Part 4* – Completed ✅
+- [x] *Part 5* – Completed ✅
+- [x] *Part 6* – Completed ✅
+- [x] *Part 7* – Completed ✅
 
 ---
 
